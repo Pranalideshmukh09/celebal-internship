@@ -6,7 +6,7 @@ This repository contains my personal solutions to the SQL problems listed in the
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [Introduction](#introduction)
 - [Solutions](#solutions)
@@ -20,7 +20,7 @@ This repository contains my personal solutions to the SQL problems listed in the
 
 ---
 
-## 📖 Introduction
+##  Introduction
 
 This repository provides structured solutions to the **Top 50 SQL problems** available on LeetCode. Each problem is solved and saved as an individual `.sql` file. These problems cover topics like `SELECT` queries, `JOIN`s, `AGGREGATES`, `SUBQUERIES`, `STRING FUNCTIONS`, and more.
 
@@ -103,7 +103,7 @@ This repository provides structured solutions to the **Top 50 SQL problems** ava
 
 ## Happy Querying!
 
-Keep practicing and mastering SQL 💻
+Keep practicing and mastering SQL 
 
 ---
 
