@@ -1,10 +1,10 @@
-# 📦 Slowly Changing Dimensions (SCD) – SQL Server Stored Procedures
+#  Slowly Changing Dimensions (SCD) – SQL Server Stored Procedures
 
 This repository provides a comprehensive solution for implementing **Slowly Changing Dimensions (SCD)** in a Data Warehouse using **Microsoft SQL Server (SSMS)**. It covers all major SCD types with real-world procedures, sample data, and testing methods.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 In data warehousing, **SCDs are essential for tracking the evolution of dimensional attributes over time**. Businesses often need to retain, overwrite, or combine history for fields like customer address, employee role, or location.
 
@@ -12,7 +12,7 @@ This project simulates such requirements using a `DimCustomer` table and demonst
 
 ---
 
-## 🧠 What You'll Learn
+##  What You'll Learn
 
 - How each SCD type behaves in real business scenarios
 - How to use T-SQL procedures to automate SCD logic
@@ -21,7 +21,7 @@ This project simulates such requirements using a `DimCustomer` table and demonst
 
 ---
 
-## 🧱 Database Design
+##  Database Design
 
 ### 🔸 Table 1: `DimCustomer` (Main Dimension Table)
 | Column         | Description                          |
@@ -57,7 +57,7 @@ This project simulates such requirements using a `DimCustomer` table and demonst
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 - `SCD_Types_SQLServer.sql`:  
   Full SQL script containing:
@@ -71,7 +71,7 @@ This project simulates such requirements using a `DimCustomer` table and demonst
 
 ---
 
-## 🚀 How to Use
+## 🚀How to Use
 
 ### Step 1: Create the Database in SSMS
 ```sql
@@ -109,7 +109,6 @@ EXEC SCD_Type6_Update @CustomerID = 101, @NewCity = 'Hyderabad';
 ## 👨‍💻 Author
 
 - **Name**: Pranali Deshmukh
+- ID: CT_CSI_SQ_1233
+- Email: pranalideshmukh227@gmail.com
 - **Tools Used**: Microsoft SQL Server Management Studio (SSMS)
-- **GitHub**: Pranalideshmukh09
-
-
