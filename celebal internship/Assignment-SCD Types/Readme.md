@@ -44,7 +44,7 @@ This project simulates such requirements using a `DimCustomer` table and demonst
 
 ---
 
-## 🧪 SCD Types Implemented
+##  SCD Types Implemented
 
 | SCD Type | Strategy                          | Description |
 |----------|-----------------------------------|-------------|
@@ -71,7 +71,7 @@ This project simulates such requirements using a `DimCustomer` table and demonst
 
 ---
 
-## 🚀How to Use
+## How to Use
 
 ### Step 1: Create the Database in SSMS
 ```sql
